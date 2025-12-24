@@ -1,0 +1,4 @@
+venv
+# this .gitignore file means whenever im committing code on github, this gitignore 
+# file should not be commited
+.env
