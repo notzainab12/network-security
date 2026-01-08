@@ -1,7 +1,0 @@
-[ 2026-01-03 19:06:02,975 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2026-01-03 19:06:02,983 ] 107 dagshub - INFO - Accessing as zzainab1225
-[ 2026-01-03 19:06:03,766 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/notzainab12/network-security "HTTP/1.1 404 Not Found"
-[ 2026-01-03 19:06:03,768 ] 107 dagshub - INFO - Repository network-security doesn't exist, creating it under current user.
-[ 2026-01-03 19:06:04,602 ] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/api/v1/user/repos "HTTP/1.1 422 Unprocessable Entity"
-[ 2026-01-03 19:06:04,603 ] 163 dagshub.upload.wrapper - ERROR - Response (422):
-{"message":""}
